@@ -1,0 +1,13 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "CSS grid demo",
+  "main": "index.js",
+  "author": "Taylor Kearns",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "scripts": {
+    "scss": "node-sass --watch styles.scss styles.css"
+  }
+}
